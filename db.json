@@ -1,12 +1,12 @@
 {
   "ramens": [
     {
-        "id": 1,
-        "name": "Shoyu Ramen",
-        "restaurant": "Nonono",
-        "image": "./assets/ramen/shoyu.jpg",
-        "rating": 7,
-        "comment": "Delish. Can't go wrong with a classic!"
+      "id": 1,
+      "name": "Shoyu Ramen",
+      "restaurant": "Nonono",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": 7,
+      "comment": "Delish. Can't go wrong with a classic!"
     },
     {
       "id": 2,
@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "id": "67af",
+      "name": "Chachoo",
+      "restaurant": "Chris",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pacificfoods.com%2Frecipes%2F15-minute-spicy-red-miso-ramen%2F&psig=AOvVaw1HmuB_5eq2AxC_pJVf6fjk&ust=1729866603596000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjAmLWdp4kDFQAAAAAdAAAAABAE",
+      "rating": "1",
+      "comment": ""
     }
   ]
 }
